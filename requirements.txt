@@ -1,0 +1,6 @@
+datasets
+transformers[sentencepiece]
+accelerate
+sacrebleu
+rouge_score
+py7zr
