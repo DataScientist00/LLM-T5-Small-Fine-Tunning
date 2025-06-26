@@ -120,5 +120,3 @@ print(result[0]['summary_text'])
 ---
 
 ⭐ If you like this project, don’t forget to **star** the repo and **share** it with your fellow ML friends!
-
-⚡️ Let’s build smarter chatbots and meeting summarizers together!
